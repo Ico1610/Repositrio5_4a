@@ -9,6 +9,14 @@
 <body>
     <h1>Soy el indets</h1>
     <h1>Soy bien fierro pariente</h1>
+
     <h2>Miuaw</h2>
+
+    <h3>Otro cambio desde el escritorio local</h3>
+
+    <h5>A mi me gustas tu </h5>
+    <h4>Fierro pariente ajua</h4>
+    <h6>Helow mancos</h6>
+
 </body>
 </html>
